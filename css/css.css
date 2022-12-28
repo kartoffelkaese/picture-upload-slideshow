@@ -43,7 +43,6 @@ input[type="submit"] {
 
 .glow:before {
     content: '';
-    /* background: linear-gradient(45deg, hsl(0, 100%, 50%), hsl(27, 100%, 50%), hsl(59, 100%, 50%), hsl(103, 100%, 50%), hsl(170, 100%, 50%), hsl(230, 100%, 50%), hsl(269, 100%, 50%), hsl(313, 100%, 50%), hsl(0, 100%, 50%)); */
     background: linear-gradient(45deg, hsl(283, 82%, 45%), hsl(126, 100%, 45%));
     position: absolute;
     top: -5px;
