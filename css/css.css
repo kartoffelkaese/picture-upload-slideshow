@@ -108,7 +108,7 @@ progress[value]::-webkit-progress-bar {
 
   progress[value]::-webkit-progress-value {
     background-image:
-    -webkit-linear-gradient(top, rgba(255, 255, 255, .25), rgba(0, 0, 0, .25)),
+    -webkit-linear-gradient(top, hsla(0, 0%, 100%, 0.25), hsla(0, 0%, 0%, 0.25)),
     linear-gradient(45deg, hsl(283, 82%, 45%), hsl(126, 100%, 45%));
     border-radius: 2px; 
     background-size: 35px 20px, 100% 100%, 100% 100%;
